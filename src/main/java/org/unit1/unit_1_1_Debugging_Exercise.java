@@ -1,4 +1,4 @@
-package org.unit1_1;
+package org.unit1;
 
 public class unit_1_1_Debugging_Exercise {
     /*

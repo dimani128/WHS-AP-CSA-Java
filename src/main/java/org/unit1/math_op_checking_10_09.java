@@ -2,6 +2,10 @@ package org.unit1;
 
 public class math_op_checking_10_09 {
     public static void main(String[] args) {
-        System.out.println(13/2/2.0+5/2.0/2);
+        int x = 6, z = 5;
+        double y = 13.0, w = 2.5;
+        System.out.println(x * (y / z) + w);
+        System.out.println((y-x*w)/z);
+        System.out.println(x % (w + y / z));
     }
 }
